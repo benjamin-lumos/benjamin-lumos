@@ -1,7 +1,8 @@
-<div align="center">
-  <!-- Animated waving header using capsule-render -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%2C+I'm+YourName+%F0%9F%91%8B&fontSize=40)
-</div>
+<p align="center">
+  <img
+    alt="Hello header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I%27m%20Benjamin&fontSize=48&animation=fadeIn" />
+</p>
 
 ### Hello! I’m an AI-savvy Full-Stack & DevOps engineer delivering robust, scalable systems.
 
@@ -27,20 +28,23 @@
 
 ---
 
-<!-- Typing animation widget for key roles or values -->
+###  Typing Animation: Roles & Values
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=440&lines=AI+Engineer;Full-Stack+Developer;DevOps+Advocate" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&size=24&color=36BCF7&multiline=true&repeat=true&lines=AI+Engineer;Full-Stack+DevOps+Advocate;MLOps+Enabler" alt="Typing Animation" />
 </p>
 
 ---
 
-###  Tools & Interactive Widgets
-- ![Spotify](https://spotify-github-profile.vercel.app/api?background_color=0d1117&border_color=ffffff) *(If you’d like a personal touch with music)*
-- 3D Contribution map and activity graph for live coding visuals :contentReference[oaicite:0]{index=0}
-- Snake-style animation of your GitHub contribution history :contentReference[oaicite:1]{index=1}
-- Real-time profile view counter and visitor engagement :contentReference[oaicite:2]{index=2}
+## GitHub Visual Insights
 
----
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjamin-lumos&show_icons=true&theme=tokyonight)
 
-###  Stats & Visuals
-*Insert visual summaries using tools like GitHub Readme Stats, language charts, and contribution graphs here.*
+### Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benjamin-lumos&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
+### Language breakdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-lumos&layout=compact&theme=tokyonight)
+
+### Contribution heatmap
+<img src="https://ghchart.rshah.org/benjamin-lumos" alt="GitHub contributions chart" />
