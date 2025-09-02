@@ -1,4 +1,4 @@
-# Hello, I'm **Your Name!** 👋
+# Hello, I'm **Benjamin!** 👋
 
 ###  Who am I?
 
@@ -23,24 +23,8 @@
 | Front-end      | React, Vue, Svelte |
 | Back-end       | Node.js, Django, Flask |
 | DevOps & Infra | Docker, Kubernetes, Terraform, Ansible |
-| AI & ML        | PyTorch, scikit-learn |
+| AI & ML        | PyTorch, scikit-learn, Tensorflow |
 | Cloud          | AWS (Lambda, ECS), GCP (Cloud Run) |
-
----
-
-###  Stats & Metrics
-
-<!-- GitHub Readme Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-###  Let’s Connect 
-
--  [Email](mailto:your.email@example.com)
--  [LinkedIn](https://www.linkedin.com/in/yourprofile)
--  [Blog / Portfolio](https://yourdomain.dev)
 
 ---
 
